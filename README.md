@@ -11,4 +11,4 @@
 📸 Outside of school I’m into photography, styling, journaling, music, and anything artsy honestly. Check out my [Pinterest](https://www.pinterest.com/renaote/)!<br/>
 
 
-[![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=renaote)](https://github.com/anuraghazra/github-readme-stats)
+[![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=renaote&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
